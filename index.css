@@ -1,0 +1,11 @@
+/* Chart y-axis */
+
+.d3-yaxis-group path, .d3-yaxis-group line {
+  fill: none;
+  stroke: #8b8b8b;
+  stroke-width: .5px;
+}
+.d3-yaxis-group text {
+  font-size: 14px;
+  fill: #8b8b8b;
+}
